@@ -1,0 +1,11 @@
+.backlog {
+    font-weight: bold;
+    font-size:30px;
+    margin-left:10px;
+}
+
+.searchBox {
+    width: 30%;
+    margin-top: 15px;
+    margin-left: 10px;
+}
